@@ -1,9 +1,9 @@
 # Detail
 
-It is about the IBM DS project.
+It is about the IBM DS capstone project.
 
 # File
 
 * [Report](./Report.ipynb)
 
-  This is notebook that contains all code
+  This is Jupyter Notebook that contains all code
